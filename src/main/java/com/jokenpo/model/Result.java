@@ -1,5 +1,7 @@
 package com.jokenpo.model;
 
-public class Result {
-
+public enum Result {
+	WIN,
+	LOSE,
+	DRAW
 }
